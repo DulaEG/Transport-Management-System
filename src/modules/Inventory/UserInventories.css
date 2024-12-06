@@ -1,0 +1,22 @@
+.inventory-container {
+    padding: 20px;
+  }
+  
+ .scrollable-container {
+    max-height: 600px; 
+    overflow-y: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+   .scrollable-container::-webkit-scrollbar {
+    display: none; 
+  } 
+
+  
+  .ant-card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  

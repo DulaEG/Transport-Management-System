@@ -1,0 +1,135 @@
+/* Table Styling */
+.table-container1 {
+    background-color:gray;
+    padding: 1px;
+    margin-top: 0%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-left: 17.5pc;
+    height: 2.8pc;
+}
+
+.table-container1 h2 {
+    margin-top: 10px;
+    margin-left: 1pc;
+}
+
+.table-container2 {
+    margin-top: 3%;
+    width: 100%;
+    margin: 20px auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height: 2.8pc;
+    align-items: end;
+}
+ 
+  
+  table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: #ddd;
+    border-radius: 3%;
+  }
+
+  table th, table td {
+    padding: 8px;
+    border: 0px solid #bbb;
+    font-size: 18px;
+    text-align: center;
+    
+  }
+
+  
+  table th {
+    background-color: #666;
+    color: #fff;
+    font-weight: bold;
+    width: 180px;
+    border-radius: 10px;
+  }
+
+  table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  table tr:hover {
+    background-color: #ccc;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #183450;
+    opacity: 93%;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-left: 0pc;
+    margin-top: 2px;
+  }
+  
+  button:hover {
+    background-color: #183450;
+    opacity: 80%;
+  }
+
+  button.delete {
+    background-color: #870E10;
+  
+  }
+  
+  button.delete:hover {
+    background-color: #870E10;
+    opacity: 80%;
+  }
+
+  button.report {
+    background-color: #183450;
+   
+    margin-left: 105cap;
+  }
+  
+  button.report:hover {
+    background-color: #183450;
+    opacity: 80%;
+  }
+
+  .Search {
+    display: flex;
+    justify-content: right;
+    margin-top: -5px;
+    height: 2.3pc;
+    
+  }
+  
+  .Search input {
+    width: 300px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #183450;
+    font-size: 16px;
+  }
+  
+  .Search button {
+    margin-left: 10px;
+    padding: 10px 20px;
+    background-color: #183450;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    opacity: 80%;
+    cursor: pointer;
+    height: 2.2pc;
+    transition: background-color 0.3s ease;
+  
+    margin-bottom: 5px;
+  }
+  
+  .Search button:hover {
+    background-color: #183450;
+  }

@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.ant-popover-buttons .ant-btn {
+  width: 50px !important;
+}.ant-popover {
+  z-index: 1050; /* Adjust this value as needed */
+}
+
+.ant-popover-inner-content {
+  max-width: 300px; /* Adjust width as needed */
+}
+
+
+.ant-popconfirm-buttons button {
+  width: fit-content;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

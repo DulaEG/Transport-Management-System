@@ -1,0 +1,42 @@
+
+/* Sidebar */
+.sidebar {
+    width: 250px;
+    background-color: #183450;
+    padding: 20px;
+    color: white;
+    position: fixed;
+    top: 0px;
+    bottom: 0;
+    opacity: 93%;
+    margin-left: -1%;
+}
+
+.sidebar h2 {
+    margin-bottom: 22px;
+    font-size: 160%;
+}
+
+.sidebar ul {
+    list-style-type: none;
+}
+
+.sidebar ul li {
+    margin-bottom: 15px;
+    margin-top: 25%;
+    margin-left: -15%;
+    font-size: 108%;
+    text-decoration: none;
+  
+}
+
+.sidebar ul li a {
+    color: white;
+    text-decoration: none;
+    margin-top: 5%;
+}
+
+.model {
+    color: white;
+    text-decoration: none;
+}

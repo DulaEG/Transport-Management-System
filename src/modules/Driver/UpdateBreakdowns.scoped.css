@@ -1,0 +1,16 @@
+
+.form-container {
+    background-color:gray;
+    padding: 1px;
+    margin-top: 3%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-left: 17.5pc;
+    height: 2.8pc;
+}
+
+.form-container h2 {
+    margin-top: 10px;
+    margin-left: 1pc;
+}
+

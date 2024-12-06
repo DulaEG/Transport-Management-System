@@ -1,0 +1,20 @@
+.table-container1 {
+    background-color:gray;
+    padding: 1px;
+    margin-top: 3%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-left: 17.5pc;
+    height: 2.8pc;
+}
+
+.table-container1 h2 {
+    margin-top: 10px;
+    margin-left: 1pc;
+}
+
+.selectBar{
+    height: 2pc;
+    width: 10pc;
+    border-radius: 2pc;
+}

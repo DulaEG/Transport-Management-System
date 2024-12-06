@@ -1,0 +1,54 @@
+.overtime-container {
+  width: 600px; 
+  margin: 30px auto; 
+  padding: 30px; 
+  border: 1px solid #ccc;
+  border-radius: 10px; 
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); 
+  background-color: #f9f9f9; 
+}
+
+.form-group {
+  margin-bottom: 20px; 
+}
+
+label {
+  display: block;
+  margin-bottom: 10px; 
+  font-weight: bold;
+  font-size: 1.2rem; 
+}
+
+input {
+  width: 100%;
+  padding: 15px; 
+  font-size: 1.1rem; 
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 6px; 
+}
+
+button {
+  width: 100%;
+  padding: 15px; 
+  background-color: gray;
+  color: white;
+  font-size: 1.2rem; 
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #5b5a63;
+}
+
+.overtime-result {
+  margin-top: 25px;
+  text-align: center;
+  font-size: 1.3rem; 
+}
+
+.overtime-result h3 {
+  color: green;
+}
